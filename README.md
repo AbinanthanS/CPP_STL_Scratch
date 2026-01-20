@@ -1,3 +1,3 @@
 # CPP_STL_Lib_Scratch
 
-STL of C++ is implemented from scatch
+implementation of STL containers from scratch
